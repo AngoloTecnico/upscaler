@@ -2,7 +2,7 @@ import os
 import subprocess
 import glob
 
-GPU_ID = "1"
+GPU_ID = "0"
 MODEL_DIR = "./esrgan/models"
 INPUT_DIR = "./input/*.*"
 OUT_DIR = "./output"
